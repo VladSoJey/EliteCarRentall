@@ -54,7 +54,7 @@ const BookingForm = () => {
       <FormGroup className="booking__form d-inline-block ms-1 mb-4">
         <input
           type="time"
-          placeholder="Время прибытия"
+          placeholder=" Время прибытия"
           className="time__picker"
         />
       </FormGroup>
